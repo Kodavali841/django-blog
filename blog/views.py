@@ -4,7 +4,7 @@ posts=[
 
     {
         'author':'CoreyMS',
-        'title':'Blog post 3' ,
+        'title':'Blog post 1' ,
         'content':'First post content',
         'date_posted':'March 28,2020'
     },
